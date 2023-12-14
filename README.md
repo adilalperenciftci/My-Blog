@@ -1,7 +1,3 @@
-Elbette, GitHub'da projenizi paylaşırken kullanabileceğiniz bir açıklama önerisi sunabilirim. Bu açıklama, projenizde kullandığınız teknolojileri ve projenizin genel özelliklerini içerecek şekilde düzenlenebilir. İşte bir örnek:
-
----
-
 # Adil Alperen Çiftçi'nin Kişisel Blogu
 
 Bu repo, [Adil Alperen Çiftçi](https://www.linkedin.com/in/adilalperenciftci)'nin kişisel blogunun kaynak kodlarını içermektedir. Blog, modern web teknolojileri kullanılarak geliştirilmiş ve yazılım geliştirme, biyoteknoloji ve genel teknoloji konularında içerikler sunmaktadır.
@@ -36,9 +32,3 @@ npm start
 ```
 
 ## Katkıda Bulunma
-
-Projeye katkıda bulunmak isteyenler, pull request gönderebilir veya mevcut sorunları çözmek için issue açabilirler.
-
----
-
-Bu açıklama, projenizin genel bir özeti olarak kullanılabilir ve GitHub README dosyanızda yer alabilir. Projeye özgü detayları ve linkleri kendi bilgilerinizle güncellemeniz gerektiğini unutmayın.
